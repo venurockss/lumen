@@ -58,3 +58,5 @@ const PlanTable = ({ plans, onEdit, onDelete }) => {
 };
 
 export default PlanTable;
+
+

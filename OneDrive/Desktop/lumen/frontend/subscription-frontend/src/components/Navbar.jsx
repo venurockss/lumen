@@ -92,3 +92,5 @@ const Navbar = ({ currentPage, onPageChange, user, onLogout }) => {
 };
 
 export default Navbar;
+
+

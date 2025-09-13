@@ -49,3 +49,4 @@ const PlanCard = ({ plan, onSubscribe, isSubscribed }) => {
 };
 
 export default PlanCard;
+

@@ -17,9 +17,9 @@ const HomePage = ({ onGetStarted }) => {
               <button className="cta-button primary" onClick={() => onGetStarted()}>
                 Get Started
               </button>
-              {/* <button className="cta-button secondary" onClick={() => onGetStarted()}>
+              <button className="cta-button secondary" onClick={() => onGetStarted()}>
                 View Plans
-              </button> */}
+              </button>
             </div>
           </div>
           <div className="hero-image">
@@ -145,3 +145,5 @@ const HomePage = ({ onGetStarted }) => {
 };
 
 export default HomePage;
+
+

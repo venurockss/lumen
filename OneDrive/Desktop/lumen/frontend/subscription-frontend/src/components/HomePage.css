@@ -304,8 +304,8 @@
 
 /* Stats Section */
 .stats-section {
-  background: linear-gradient(135deg, #c5c6cb 0%, #ffffff 100%);
-  color: rgb(58, 40, 40);
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
   padding: 4rem 0;
 }
 
